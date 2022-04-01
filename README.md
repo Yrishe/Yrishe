@@ -5,3 +5,5 @@
 - 👯 I’m looking to collaborate on Back-End projects 
 - 🤔 I’m open to receive feedbacks  
 
+
+![Snake animation](https://github.com/Yrishe/Yrishe/edit/main/README.md)
