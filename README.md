@@ -7,4 +7,4 @@
 
 
 ![Snake animation](https://github.com/Yrishe/Yrishe/edit/main/README.md)
-![Snake animation](https://github.com/Yrishe/Yrishe/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yrishe/Yrishe/github-contribution-grid-snake.svg)
