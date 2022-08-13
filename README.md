@@ -4,7 +4,7 @@ I am a self taught Software Developer.
 I have skills on: 
 
 - 🔭 👨🏽‍💻
-- PYTHON <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- PYTHON / MACHINE LEARNING <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
 - JAVASCRIPT  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
