@@ -1,7 +1,7 @@
 ### Hi there! I am Yarli
 
 I am a self taught Software Developer.
-I have skills on: 
+I have skills in: 
 
 - 🔭 👨🏽‍💻
 - PYTHON / MACHINE LEARNING <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
