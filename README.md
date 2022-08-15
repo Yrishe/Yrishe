@@ -20,6 +20,8 @@ I have skills in:
 
 DEVELOPING MY SKILLS TO BE A BACK END DEVELOPER. 
 
+Focusing in building up projects based on key concepts of data structure, following the both imperative and declarative paradigms. 
+
 
 
 <a href="https://www.linkedin.com/in/yarli-rabelo-17413a77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
