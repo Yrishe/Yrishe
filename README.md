@@ -20,7 +20,7 @@ I have skills in:
 
 DEVELOPING MY SKILLS TO BE A BACK END DEVELOPER. 
 
-Focusing in building up projects based on key concepts of data structure, following the both imperative and declarative paradigms. 
+Focusing on building up projects to develop key concepts of data structure, following both imperative and declarative paradigms. 
 
 
 
