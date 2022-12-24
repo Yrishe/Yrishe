@@ -18,14 +18,8 @@ and websites.</h4>
           
 - HTML  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
           
-- CSS //<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-          
-
-DEVELOPING MY SKILLS TO BE A BACK END DEVELOPER. 
-
-Focussing on building up projects to develop key concepts of data structure, following both imperative and declarative paradigms. 
-
-
+- CSS <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+         
 
 <a href="https://www.linkedin.com/in/yarli-rabelo-17413a77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
