@@ -1,10 +1,10 @@
 ### Hi there! I am Yarli
 
 <h3>I'm a student of Computer Sciences coursing the first year at UoL.</h3>
-<h4>Over here I'm gonna show a few skills that I have in programming and software development. Initially I will develop a few games in JS
+<h4>Over here I'm gonna show the skills I have in programming and software development. Initially I will develop a few games in JS
 and websites.</h4>
 
-<h2>Check out below, a few languages that I have done courses or worked on small projects:</h2> 
+<h2>Check out below, a few languages that I have done courses or worked with:</h2> 
 
 - 🔭 👨🏽‍💻
 - PYTHON / MACHINE LEARNING <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
