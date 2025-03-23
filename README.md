@@ -50,7 +50,7 @@ const anmol = {
         generativeAI: ["GPT", "Vectorization"],
     },
     architecture: {
-        backEnd: ["microservices", "serverless"],
+        backEnd: ["Microservices", "Serverless"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
     currentFocus: "Leading development of measurement systems of high precision",
