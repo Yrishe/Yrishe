@@ -43,7 +43,7 @@ const anmol = {
             python: ["Django"],
         },
         datAnalysis: {
-            libraries: ["numpy", "pyplot", "matplotlib", "scipy", "seaborn", "pandas"],
+            libraries: ["Numpy", "Pyplot", "Matplotlib", "Scipy", "Seaborn", "Pandas"],
         },
         devOps: ["Docker🐳"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MS Azure SQL"],
