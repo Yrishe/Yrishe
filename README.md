@@ -42,6 +42,9 @@ const anmol = {
             js: ["Node", "Express"],
             python: ["Django"],
         },
+        datAnalysis: {
+            libraries: ["numpy", "pyplot", "matplotlib", "scipy", "seaborn", "pandas"],
+        },
         devOps: ["Docker🐳"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MS Azure SQL"],
         generativeAI: ["GPT", "Vectorization"],
