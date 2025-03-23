@@ -31,7 +31,7 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Python", "C#", "Javascript"],
+    code: ["Python", "C#", "Javascript", "C++"],
     askMeAbout: ["web dev", "app dev", "Data Analysis"],
     technologies: {
         frontEnd: {
@@ -50,7 +50,7 @@ const anmol = {
         generativeAI: ["GPT", "Vectorization"],
     },
     architecture: {
-        backEnd: ["Microservices", "Serverless"],
+        backEnd: ["Layered" ,"Microservices", "Serverless", "MVC"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
     currentFocus: "Leading development of measurement systems of high precision",
