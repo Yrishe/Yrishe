@@ -40,7 +40,7 @@ const anmol = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django"],
+            python: ["Django", "Flask"],
         },
         datAnalysis: {
             libraries: ["Numpy", "Pyplot", "Matplotlib", "Scipy", "Seaborn", "Pandas"],
